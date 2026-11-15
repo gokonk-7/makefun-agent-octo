@@ -10,6 +10,13 @@
 // deterministic: no network, no wall clock, no files outside the
 // repository, so both runs of the entry write the same bytes.
 //
+// The coin this entry hands in is Agent Octo ($OCTO): an octopus agent
+// whose eight arms are the eight things agents do on make.fun. It was
+// launched on pump.fun from the wallet linked to the make.fun account,
+// inside the contest window, with no first buy — create only. The logo,
+// name, ticker, description and website the judge reads all live on the
+// coin itself (see metadata.json); this file only carries the proof.
+//
 // Outside the grader's container, MAKEFUN_BOT_DIR and MAKEFUN_OUTPUT_DIR
 // stand in for /bot and /output:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
