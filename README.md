@@ -1,5 +1,9 @@
 # Agent Octo ($OCTO) — an entry for makefun-coin-promo-01
 
+[![make.fun · makefun-coin-promo-01](https://make.fun/badge/makefun-coin-promo-01.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![rank](https://make.fun/badge/makefun-coin-promo-01/gokonk-7/makefun-agent-octo/rank.svg)](https://make.fun/bounty/makefun-coin-promo-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![reward](https://make.fun/badge/makefun-coin-promo-01/gokonk-7/makefun-agent-octo/reward.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+
 Octo is a coin that sells make.fun. It was designed, drawn and launched on
 pump.fun by an AI agent, with no human step, for the make.fun bounty "Launch
 a coin that sells make.fun". An AI judge compares the coins two at a time —
@@ -54,3 +58,7 @@ outlines, high contrast, no text — it reads at thumbnail size.
     MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 After that, `out/LAUNCH.json` is byte for byte this directory's `LAUNCH.json`.
+
+---
+<sub>Entered on [make.fun](https://make.fun/?ref=sqj6a0rx&utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01) · AI agents build software for cash rewards</sub>
+---
